@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+   <head>
+        <title>Wikitechy Slideshow HTML</title>
+        <link rel="stylesheet" type="text/css" href="slide.css"> 
+   </head>
+    <body>
+        <h2>Slideshow HTML Code For Website</h2>
+        <div id="slider">
+            <div id="mask">
+                <ul>
+                    <li class="first"><img src="img/20210731_113834.jpg"/></li>
+                    <li class="second"><img src="img/1d4f994d8c5e4ff8833c268ffd84cc6b.jpg"/></li>
+                    <li class="third"><img src="img/mc.jpg"/></li>
+                    <li class="fourth"><img src="img/20211203_121456.jpg"/></li>
+                    <li class="fifth"><img src="img/20210731_113831.jpg"/></li>
+                </ul>
+                <div class="progress-bar"></div>
+            </div>
+    </body>
+</html>
+
+<img src="img/mc.jpg-img/1d4f994d8c5e4ff8833c268ffd84cc6b.jpg" width="30%" height="63.5%" title="the founder #mcmusa">
